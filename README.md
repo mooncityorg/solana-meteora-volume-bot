@@ -53,12 +53,5 @@ npm run gather
 
 # 👤 Author
 
-### Discord: skel1009 in discord
-
-### Twitter: [ewan_tomson](https://x.com/ewan_tomson)   
-https://x.com/ewan_tomson
-
-### Telegram: [@Ruby0107](https://t.me/@Ruby0107)   
-https://t.me/@Ruby0107
 
 You can always find me here, for help, or for other projects.
