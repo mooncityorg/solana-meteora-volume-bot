@@ -3,6 +3,7 @@
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
+
 ### What is the main difference between the former volume booster and the updated one?
 
 ## 🔧 Last Version's Demerits
