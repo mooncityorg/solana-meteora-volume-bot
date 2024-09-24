@@ -67,7 +67,6 @@ const distritbutionNum = DISTRIBUTE_WALLET_NUM > 20 ? 20 : DISTRIBUTE_WALLET_NUM
 
 const main = async () => {
 
-  // curSolPrice = await getSolPrice();
 
   const solBalance = await solanaConnection.getBalance(mainKp.publicKey)
   console.log(`Volume bot is running`)
