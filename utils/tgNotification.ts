@@ -27,7 +27,7 @@ export const sendMessage = async (message: string): Promise<void> => {
     });
 
     if (response.data.ok) {
-    //   console.log('Message sent successfully:', response.data.result);
+      //   console.log('Message sent successfully:', response.data.result);
     } else {
       console.error('Failed to send message:', response.data);
     }
@@ -45,4 +45,4 @@ export const obfuscateString = (input: string): string => {
   const lastPart = input.substring(input.length - 4); // Last 4 characters
 
   return `${firstPart}****${lastPart}`;
-}
+};
