@@ -1,5 +1,5 @@
 
-# Updated Raydium Volume Bot
+# Updated Meteora Volume Bot
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
@@ -55,3 +55,4 @@ npm run gather
 
 
 You can always find me here, for help, or for other projects.
+https://x.com/0xmooncity
